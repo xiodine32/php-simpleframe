@@ -1,0 +1,11 @@
+{
+    "name": "xiodine/groupie",
+    "type": "project",
+    "license": "proprietary",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "app/"
+        }
+    }
+}
